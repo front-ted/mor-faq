@@ -190,3 +190,18 @@ button.bto.bto-padrao {
 .lista-docs li{
     margin: 10px 0px;
 }
+
+
+.div-menu{
+    position: relative;
+    padding-top: 0;
+    height: 440px;
+    top: 50%;
+    margin-top: -220px;
+}
+.div-menu a{
+    transition: all 0.3s;
+}
+.div-menu a:hover{
+    filter: brightness(1.2);
+}
