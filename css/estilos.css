@@ -154,6 +154,7 @@ button.bto.bto-padrao {
     border: 2px solid #005e9f;
     padding: 1em;
     border-radius: 15px;
+    margin: 20px auto;
 }
 
 .center-block {
