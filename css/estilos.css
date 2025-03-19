@@ -206,3 +206,9 @@ button.bto.bto-padrao {
 .div-menu a:hover{
     filter: brightness(1.2);
 }
+
+
+
+.modal-body *{
+    word-break: break-word;
+}
