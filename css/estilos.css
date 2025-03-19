@@ -171,7 +171,24 @@ button.bto.bto-padrao {
 .btn:hover {
     color: white;
     background-color: #005e9f;
-    
+}
+
+.btn-link{
+    color: white;
+    background-color: #005e9f;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    display: block;
+    transition: all 0.3s;
+    width: 400px;
+    max-width: 100%;
+    text-align: center;
+}
+.btn-link:hover{
+    color: white;
+    text-decoration: none;
+    filter: brightness(1.2);
 }
 
 .mfp-wrap {
