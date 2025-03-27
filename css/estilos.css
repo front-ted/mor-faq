@@ -220,8 +220,14 @@ button.bto.bto-padrao {
 .div-menu a{
     transition: all 0.3s;
 }
-.div-menu a:hover{
+.div-menu a img:hover{
     filter: brightness(1.2);
+    box-shadow: #a0a0a0 5px 5px 8px !important;
+}
+.div-menu a img{
+    transition: all 0.3s;
+    border-radius: 20px;
+    box-shadow: #c4c4c4 5px 5px 8px;
 }
 
 
